@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datos_cliente>
+  <id>00012345678Z<!--Este DNI/NIE no es correcto-->
+  </id>
+  <nombre>nombre</nombre>
+  <apellidos>apellidos</apellidos>
+</datos_cliente>
